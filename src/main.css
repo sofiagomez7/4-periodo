@@ -1,0 +1,65 @@
+
+@font-face {
+    font-family: "ChocoChips";
+    src: url(./tipo-de-letra/ChocoChips.ttf);
+}
+#principal {
+    display:inline-block ;
+    justify-content: center;
+    
+}
+h1{
+    text-align:center ;
+    border-radius: 5px;
+    font-family: 'ChocoChips';
+    font-size: 3em;
+    color: rgb(34, 33, 33);
+    margin: 0 auto;
+}
+*{
+    display: block;
+    background-color: #D3E4CD;
+    font-size: 1.1em;
+    width: 80%;
+    border-radius: 7px;
+    padding: 0.5%;
+    margin-top: 0.3em;
+    margin-bottom: 0.2em;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 2em;
+    background-color: inherit;
+    margin: 0 auto;
+}
+div{
+    border-radius: 5px;
+    background-color: #FEF5ED;
+    padding:inherit;
+    margin: 0 auto;
+}
+form{
+    display: block;
+    background-color: inherit;
+    margin: 0 auto;
+    }
+body{
+    padding: 20px;
+}
+ul{
+    border-radius: 7px;
+}
+#lista-cumplidas li{
+    text-decoration:line-through ;
+    color: #000
+}
+.pie-de-pagina {
+    font-size: 1em;
+}
+#boton{
+    height: 2em;
+    width: 15em;
+}
+.parrafo{
+    background-color: inherit;
+}

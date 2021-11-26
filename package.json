@@ -1,0 +1,28 @@
+{
+  "name": "mi-nuevo-repositorio",
+  "version": "1.0.0",
+  "description": "A lo largo de el año 2021, el grado noveno  ha sido instruido  en el manejo basico de algunos aspectos  de J avascript  ## resolucionn de problemas  cuando se codifica podemos aplicar metodos para resolver problemas.En clase, aplicaremos  los siguientes: * analisis del problema     * se divide el problemas en problemas mas pequeños     * se establecen datos     * se diseña soluciones para los problemas mas pequeños     * probar las soluciones     * iterar(repetir proceso)  * deteccion de patrones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinsanchez1224/mi-nuevo-repositorio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinsanchez1224/mi-nuevo-repositorio/issues"
+  },
+  "homepage": "https://github.com/justinsanchez1224/mi-nuevo-repositorio#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  }
+}
